@@ -1,0 +1,6 @@
+class Saludo{
+
+
+  System.out.println("Hola Mundo");
+
+}
